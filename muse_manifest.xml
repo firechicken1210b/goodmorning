@@ -1,0 +1,51 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.html" resolutions="1x" timestamp="1625144651505">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3884802901" ref="index"/>
+    <file name="___-2.css" crc="131039766" ref="未命名-2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:未命名-2"/>
+    <file name="museutils.js" crc="4216313831" ref="index:未命名-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:未命名-2"/>
+    <file name="museconfig.js" crc="474374037" ref="index:未命名-2"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:未命名-2"/>
+    <file name="require.js" crc="3951022091" ref="index:未命名-2"/>
+  </folder>
+  <folder name="images">
+    <file name="781643.jpg" crc="267175916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="貼上的-svg-159773x153.svg" crc="88763986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 159773x153_poster_.png" crc="73534659" ref="index"/>
+    <file name="未命名-2.png" crc="132175627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-3.png" crc="3971347672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-4.png" crc="4209725806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-5.png" crc="3842201914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-8.png" crc="274460808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-6.png" crc="189713105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-9.png" crc="4020426621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-7.png" crc="4231267213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4178673303" seo="true" mt="1625144639735" redirect="true"/>
+  <file name="未命名-2.html" crc="3914840853" seo="true" mt="1625126244880" redirect="false"/>
+</manifest>
